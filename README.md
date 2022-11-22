@@ -1,4 +1,5 @@
-<h1>Aditya Srivastava</h1>- 👋 Hi, I’m @Aditya-040
+<h1>Aditya Srivastava</h1>- 
+- 👋 Hi, I’m @Aditya-040
 - 👀 I’m interested in blockchain ,webdevelopment and data science.
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on web development projects
