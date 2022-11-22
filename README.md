@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+- 🔭 I’m currently working on **Blockchain Development**
+
 - 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **blockchain project**
@@ -13,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya--srivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya--srivastava/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_addy_0407/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_addy_0407/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya--srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya--srivastava" height="30" width="40" /></a>
+<a href="https://instagram.com/_addy_0407/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_addy_0407/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@adityasrivastava2724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adityasrivastava2724" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/as_03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="as_03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@csdsa_21b1541183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@csdsa_21b1541183" height="30" width="40" /></a>
