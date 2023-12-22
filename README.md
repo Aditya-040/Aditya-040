@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **Blockchain Development**
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **blockchain project**
+- 👯 I’m looking to collaborate on **web3 project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya-040/](https://github.com/Aditya-040/)
 
-- 💬 Ask me about **Django ,python and java**
+- 💬 Ask me about **web-development ,solidity ,hardhat, Django, python and java**
 
 - 📫 How to reach me **as0730728@gmail.com**
 
