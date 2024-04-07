@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
-<h3 align="center">A passionate (MERN) and web3 developer</h3>
+<h3 align="center">A passionate MERN and web3 developer</h3>
 
 
 - 🌱 I’m currently learning **web3**
